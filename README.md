@@ -11,3 +11,4 @@ HAR2JMX is a utility for taking an HTTP Archive (HAR) file as input and transfor
 - [HAR2JMX win-x64 Download](../../raw/main/binaries/latest/win-x64/har2jmx_win-x64.zip)
 - [HAR2JMX linux-x64 Download](../../raw/main/binaries/latest/win-x64/har2jmx_linux-x64.zip)
 - [HAR2JMX osx-x64 Download](../../raw/main/binaries/latest/win-x64/har2jmx_osx-x64.zip)
+- [HAR2JMX win-x64 Download](https://github.com/AaronPLopez/HAR2JMX/blob/main/binaries/latest/win-x64/har2jmx_win-x64.zip}
